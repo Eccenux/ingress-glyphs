@@ -48,6 +48,8 @@
 			), '', $svg);
 			// remove text styling (common style will be in CSS)
 			$svg = preg_replace('#(text[^>]+?)\sstyle="[^>"]+"#', '$1', $svg);
+			// remove useless attributes from glyph-plate usage
+			$svg = preg_replace('@(use)[^>]+(xlink:href="#glyph-plate")[^/>]+@', '$1 $2 ', $svg);
 
 			return $svg;
 		}
