@@ -39,6 +39,14 @@
 				'#\s*<metadata[\s\S]+?</metadata>#',
 			), '', $svg);
 
+			// dangerous in general (glyph SVG specific)
+			$svg = preg_replace(array(
+				// for tspan we should actual check if a tspan is the only element in text, but we don't care here
+				'#</?tspan[^>]*>#',
+				// element not needed for static HTML
+				'#<g[^>]+id="edit-info"[\s\S]+?</g>#',
+			), '', $svg);
+
 			return $svg;
 		}
 
