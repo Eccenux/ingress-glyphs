@@ -26,7 +26,12 @@
 		 * @return string Cleaned (pre-proccessed) SVG string.
 		 */
 		public static function cleanup($svg) {
-			//trigger_error("Not implemented", E_USER_ERROR);
+			// XML header
+			$svg = preg_replace('#^<\?xml[^>]+\?>#', '', $svg);
+			// dimmensions
+			$svg = preg_replace('#\s+height="[^"]+"#', '', $svg, 1);
+			$svg = preg_replace('#(\s)width="[^"]+"#', '$1width="100%"', $svg, 1);
+
 			return $svg;
 		}
 
