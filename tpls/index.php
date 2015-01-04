@@ -8,6 +8,8 @@
 
 	<meta name="author" content="Maciej Jaros">
 
+	<link rel="stylesheet" href="jquery-ui/jquery-ui.css">
+
 	<style type="text/css">
 	svg text {
 		font-size:40.33519745px;
@@ -20,10 +22,34 @@
 	</style>
 </head>
 <body lang="en">
-<input type="text" id="search-text">
-<input type="button" id="run-search" value="search">
+
+	<div style="position: fixed; top:0; left: 0;">
+		<label for="search-text">Glyph</label>
+		<input type="text" id="search-text">
+	</div>
 
 <?=$cleanSvg?>
+
+<!-- scripts -->
+<script src="jquery-ui/jquery.js"></script>
+<script src="jquery-ui/jquery-ui.js"></script>
+
+<script src="data.js"></script>
+<script>
+var glyphTexts = [];
+var glyphIds = [];
+for (var glyphId in glyphsMapping) {
+	glyphIds.push(glyphId);
+	glyphTexts.push(glyphsMapping[glyphId]);
+}
+$( "#search-text" ).autocomplete({
+	source: glyphTexts,
+	select: function( event, ui ) {
+		var i = $.inArray(ui.item.value, glyphTexts);
+		location.href = '#' + glyphIds[i];
+	}
+});
+</script>
 
 </body>
 </html>
