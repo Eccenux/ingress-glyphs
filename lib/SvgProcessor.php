@@ -33,8 +33,8 @@
 			$svg = preg_replace('#(\s)width="[^"]+"#', '$1width="100%"', $svg, 1);
 			// inkscape namespaces
 			$svg = preg_replace(array(
-				'#\s+(sodipodi|inkscape):\w+="[^"]+"#',
-				'#<(sodipodi|inkscape):\w+\s[^<]+/>#',
+				'#\s+(sodipodi|inkscape):[\w\-]+="[^"]+"#',
+				'#<(sodipodi|inkscape):[\w\-]+\s[^<]+/>#',
 				'#\s+xmlns:(sodipodi|inkscape|dc|cc|rdf)="[^"]+"#',
 				'#\s*<metadata[\s\S]+?</metadata>#',
 			), '', $svg);
