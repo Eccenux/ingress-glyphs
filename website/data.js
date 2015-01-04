@@ -1,0 +1,1 @@
+var glyphsMapping = {"g5645":"Mind"}

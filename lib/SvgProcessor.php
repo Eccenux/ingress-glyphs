@@ -1,25 +1,70 @@
 <?php
 	/**
-	*/
+	 * SVG processor partially Glyph specific.
+	 *
+	 * @author Maciej Nux Jaros
+	 */
 	class SvgProcessor
 	{
 		# internal variables
-		
+		const mainHtml = 'index.html';
+		const dataJS = 'data.js';
+		const dataVariable = 'glyphsMapping';
+		const mainTplPath = 'tpls/index.php';
+
 		# constructor
 		function __construct () {
 		}
 		
 		# methods
+		/**
+		 * Clean SVG file
+		 *
+		 * Removes some Inkscape specific stuff that is not need and does some extra transformations.
+		 *
+		 * @param string $svg SVG string.
+		 * @return string Cleaned (pre-proccessed) SVG string.
+		 */
 		public static function cleanup($svg) {
-			trigger_error("Not implemented", E_USER_ERROR);
+			//trigger_error("Not implemented", E_USER_ERROR);
 			return $svg;
 		}
+
+		/**
+		 * Read glyph mapping data from SVG.
+		 *
+		 * @param string $cleanSvg Cleaned (pre-proccessed) SVG string.
+		 * @return array Glyph mapping data (groupId => glyphName).
+		 */
 		public static function readData($cleanSvg) {
-			trigger_error("Not implemented", E_USER_ERROR);
+			//trigger_error("Not implemented", E_USER_ERROR);
+			$data = array(
+				'g5645' => 'Mind'
+			);
 			return $data;
 		}
+
+		/**
+		 * Save data and embed SVG in HTML.
+		 *
+		 * @param string $outputBasePath Output path for the glyph website.
+		 * @param string $cleanSvg Cleaned (pre-proccessed) SVG string.
+		 * @param array $data Glyph mapping data to be put in JS file (as JSON).
+		 * @return boolean true if finished without problems.
+		 */
 		public static function write($outputBasePath, $cleanSvg, $data) {
-			trigger_error("Not implemented", E_USER_ERROR);
+			$outputBasePath = preg_replace('#/*$#', '/', $outputBasePath);
+
+			// main html (embedded SVG)
+			ob_start();
+			include dirname(__DIR__) . '/' . self::mainTplPath;
+			$html = ob_get_clean();
+			file_put_contents($outputBasePath . self::mainHtml, $html);
+
+			// data file (JSON with glyph mapping)
+			$json = 'var ' . self::dataVariable . ' = ' . json_encode($data);
+			file_put_contents($outputBasePath . self::dataJS, $json);
+
 			return true;
 		}
 	}
