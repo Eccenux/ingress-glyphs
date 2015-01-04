@@ -51,7 +51,16 @@ $( "#search-text" ).autocomplete({
 	source: glyphTexts,
 	select: function( event, ui ) {
 		var i = $.inArray(ui.item.value, glyphTexts);
-		location.href = '#' + glyphIds[i];
+		var glyphId = glyphIds[i];
+
+		// weird doesn't work on Opera 12...
+		//location.href = '#' + glyphId;
+		history.pushState({}, glyphId, "#" + glyphId);
+
+		// nice animation effect (which happen to work on Opera 12 too)
+		$('html, body').animate({
+			scrollTop: $("#" + glyphId).offset().top
+		}, 200);
 	}
 });
 </script>
