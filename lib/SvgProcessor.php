@@ -46,6 +46,8 @@
 				// element not needed for static HTML
 				'#<g[^>]+id="edit-info"[\s\S]+?</g>#',
 			), '', $svg);
+			// remove text styling (common style will be in CSS)
+			$svg = preg_replace('#(text[^>]+?)\sstyle="[^>"]+"#', '$1', $svg);
 
 			return $svg;
 		}
