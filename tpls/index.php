@@ -17,22 +17,35 @@
 		text-anchor:middle;
 		fill:#1accd9;fill-opacity:1;
 		stroke:none;
-		font-family:Sans;
+		font-family:sans-serif;
 	}
 
+	input[type=text],
 	body {
 		background: black;
-		color: whitesmoke;
+		color: #ddd;
+		font:12pt sans-serif;
+	}
+
+	input[type=text] {
+		border-color: #1accd9;
+		padding: .5em;
+	}
+	#search-box {
+		position: fixed;
+		top:0; left: 0;
+		padding: 1em;
 	}
 	</style>
 </head>
 <body lang="en">
 
-	<div style="position: fixed; top:0; left: 0;">
-		<label for="search-text">Glyph</label>
-		<input type="text" id="search-text">
-	</div>
+<div id="search-box">
+	<label for="search-text">Glyph</label>
+	<input type="text" id="search-text">
+</div>
 
+<!-- SVG -->
 <?=$cleanSvg?>
 
 <!-- scripts -->
