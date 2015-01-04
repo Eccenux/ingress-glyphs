@@ -59,11 +59,20 @@
 		 * @return array Glyph mapping data (groupId => glyphName).
 		 */
 		public static function readData($cleanSvg) {
-			//trigger_error("Not implemented", E_USER_ERROR);
-			$data = array(
-				'g5645' => 'Mind'
-			);
-			return $data;
+			$glyphData = array();
+
+			$doc = new DOMDocument();
+			$doc->loadXML($cleanSvg);
+			$elements = $doc->getElementsByTagName('text');
+
+			if (!is_null($elements)) {
+				foreach ($elements as $element) {
+					$glyphId = $element->parentNode->getAttribute('id');
+					$glyphName = $element->nodeValue;
+					$glyphData[$glyphId] = $glyphName;
+				}
+			}
+			return $glyphData;
 		}
 
 		/**
