@@ -19,6 +19,11 @@
 		stroke:none;
 		font-family:Sans;
 	}
+
+	body {
+		background: black;
+		color: whitesmoke;
+	}
 	</style>
 </head>
 <body lang="en">
