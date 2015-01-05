@@ -1,3 +1,6 @@
+<?php
+	$buildTime = time();
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,7 +11,7 @@
 
 	<meta name="author" content="Maciej Jaros">
 
-	<link rel="stylesheet" href="jquery-ui/jquery-ui.css">
+	<link rel="stylesheet" href="jquery-ui/jquery-ui.css?<?=$buildTime?>">
 
 	<style type="text/css">
 	svg text {
@@ -34,7 +37,10 @@
 	#search-box {
 		position: fixed;
 		top:0; left: 0;
-		padding: 1em;
+		padding: .5em;
+	}
+	#info-box {
+		text-align: right;
 	}
 	</style>
 </head>
@@ -44,37 +50,60 @@
 	<label for="search-text">Glyph</label>
 	<input type="text" id="search-text">
 </div>
+<div id="info-box">
+	<input type="button" value="Feedback &amp; Info" id="feedback-button">
+</div>
+<div id="feedback-dialog" title="Feedback and informations about this page">
+	<p>This page should allow you to learn Ingress portal hacking language faster. And you should know your Ingress ABC to make hacking really count ;-).</p>
+	<p>There is an on-going effort to put all glyphs in here (to be more exacrt - all glyphs that you could find in hacking riddles). If you find something missing then please do not hasitate to either <a href="https://github.com/Eccenux/ingress-glyphs/issues" target="_blank">file a bug report</a>, or <a href="mailto:eccenu&#120;&#43;&#105;&#110;&#103;&#114;&#101;&#115;&#115;&#103;&#108;&#121;&#112;&#104;&#64;&#103;&#109;ail.com?subject=Ingress Glyph request">contact me via e-mail</a>.</p>
+	<p>I'm also open to suggestions on improving this site so you can also <a href="https://github.com/Eccenux/ingress-glyphs/issues" target="_blank">request a feature</a> in the same place you post bugs.</p>
+</div>
 
 <!-- SVG -->
 <?=$cleanSvg?>
 
 <!-- scripts -->
-<script src="jquery-ui/jquery.js"></script>
-<script src="jquery-ui/jquery-ui.js"></script>
+<script src="jquery-ui/jquery.js?<?=$buildTime?>"></script>
+<script src="jquery-ui/jquery-ui.js?<?=$buildTime?>"></script>
 
-<script src="data.js"></script>
+<script src="data.js?<?=$buildTime?>"></script>
 <script>
-var glyphTexts = [];
-var glyphIds = [];
-for (var glyphId in glyphsMapping) {
-	glyphIds.push(glyphId);
-	glyphTexts.push(glyphsMapping[glyphId]);
-}
-$( "#search-text" ).autocomplete({
-	source: glyphTexts,
-	select: function( event, ui ) {
-		var i = $.inArray(ui.item.value, glyphTexts);
-		var glyphId = glyphIds[i];
-
-		// weird doesn't work on Opera 12...
-		//location.href = '#' + glyphId;
-		history.pushState({}, glyphId, "#" + glyphId);
-
-		// nice animation effect (which happen to work on Opera 12 too)
-		$('html, body').animate({
-			scrollTop: $("#" + glyphId).offset().top
-		}, 200);
+// autocomplete
+(function($) {
+	var glyphTexts = [];
+	var glyphIds = [];
+	for (var glyphId in glyphsMapping) {
+		glyphIds.push(glyphId);
+		glyphTexts.push(glyphsMapping[glyphId]);
 	}
+	$( "#search-text" ).autocomplete({
+		source: glyphTexts,
+		select: function( event, ui ) {
+			var i = $.inArray(ui.item.value, glyphTexts);
+			var glyphId = glyphIds[i];
+
+			// weird doesn't work on Opera 12...
+			//location.href = '#' + glyphId;
+			history.pushState({}, glyphId, "#" + glyphId);
+
+			// nice animation effect (which happen to work on Opera 12 too)
+			$('html, body').animate({
+				scrollTop: $("#" + glyphId).offset().top
+			}, 200);
+		}
+	});
+})(jQuery);
+
+// jUI enhance
+$("input[type=submit], input[type=button], button").button();
+
+// feedback
+$('#feedback-dialog').dialog({
+	autoOpen: false,
+	width: 500
+});
+$('#feedback-button').click(function (){
+	$('#feedback-dialog').dialog('open');
 });
 </script>
 
