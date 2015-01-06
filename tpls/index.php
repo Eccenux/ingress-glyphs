@@ -1,5 +1,17 @@
 <?php
-	$buildTime = time();
+	// setup build time
+	$buildFiles = array(
+		'./website/jquery-ui/jquery-ui.css',
+		'./website/jquery-ui/jquery.js',
+		'./website/data.js',
+	);
+	$buildTime = 0;
+	foreach($buildFiles as $filename) {
+		$changeTime = filemtime($filename);
+		if ($buildTime < $changeTime) {
+			$buildTime = $changeTime;
+		}
+	}
 ?>
 <!DOCTYPE html>
 <html>

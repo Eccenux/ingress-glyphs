@@ -96,8 +96,11 @@
 
 			// data file (JSON with glyph mapping)
 			$json = 'var ' . self::dataVariable . ' = ' . json_encode($data);
-			file_put_contents($outputBasePath . self::dataJS, $json);
-
+			$dataFilePath = $outputBasePath . self::dataJS;
+			$oldJson = file_get_contents($dataFilePath);
+			if ($oldJson !== $json) {	// compare with old to avoid changing modification time
+				file_put_contents($dataFilePath, $json);
+			}
 			return true;
 		}
 	}
