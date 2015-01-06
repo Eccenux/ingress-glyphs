@@ -9,8 +9,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="4703.1191"
-   height="60223.07"
-   viewBox="27 87 2630.3153 33737.632"
+   height="61417.195"
+   viewBox="27 87 2630.3153 34406.594"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -217,9 +217,9 @@
      showgrid="false"
      inkscape:snap-global="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:zoom="0.063360701"
-     inkscape:cx="-4054.8014"
-     inkscape:cy="61845.623"
+     inkscape:zoom="0.022401391"
+     inkscape:cx="-28066.523"
+     inkscape:cy="69708.983"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -231,7 +231,7 @@
      fit-margin-right="100"
      fit-margin-bottom="100" />
   <g
-     transform="translate(726.25967,1467.5782)"
+     transform="translate(726.25965,1467.5782)"
      id="g5613">
     <use
        xlink:href="#glyph-plate"
@@ -254,7 +254,7 @@
   </g>
   <g
      id="g5645"
-     transform="translate(222.06975,1467.5782)">
+     transform="translate(222.06973,1467.5782)">
     <use
        xlink:href="#glyph-plate"
        id="use28"
@@ -298,7 +298,7 @@
   </g>
   <g
      id="g4455"
-     transform="translate(726.25967,3439.5177)">
+     transform="translate(726.25965,3439.5177)">
     <use
        xlink:href="#glyph-plate"
        id="use38"
@@ -319,7 +319,7 @@
          y="33.077488">Present</tspan></text>
   </g>
   <g
-     transform="translate(222.06975,3439.5177)"
+     transform="translate(222.06973,3439.5177)"
      id="g4487">
     <use
        xlink:href="#glyph-plate"
@@ -364,7 +364,7 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 681.53652,3628.9674 84.5,49.6249 0,92.5999 -84.5,49.625"
+     d="m 681.5365,3628.9674 84.5,49.6249 0,92.5999 -84.5,49.625"
      id="path4551"
      inkscape:connector-curvature="0" />
   <path
@@ -380,7 +380,7 @@
      sodipodi:nodetypes="cccc" />
   <g
      id="edit-info"
-     transform="translate(-1.5038654e-5,5.5983473e-6)">
+     transform="translate(-3.1248649e-5,4.8259826e-6)">
     <rect
        y="-958.07886"
        x="263.69327"
@@ -413,7 +413,7 @@
   </g>
   <g
      id="g4747"
-     transform="translate(474.16471,13259.808)">
+     transform="translate(474.16469,13259.808)">
     <use
        xlink:href="#glyph-plate"
        id="use62"
@@ -434,7 +434,7 @@
          y="33.077488">Capture</tspan></text>
   </g>
   <g
-     transform="translate(978.35465,13259.808)"
+     transform="translate(978.35463,13259.808)"
      id="g4779">
     <use
        xlink:href="#glyph-plate"
@@ -462,11 +462,11 @@
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1261.2816,13449.258 -84.5,142.225 -81.35,-45.45 -77.3001,45.45 -84.50003,49.626 161.80013,91.15"
+     d="m 1261.2816,13449.258 -84.5,142.225 -81.35,-45.45 -77.3001,45.45 -84.50005,49.626 161.80015,91.15"
      id="path4817"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(-287.72223,12583.699)"
+     transform="translate(-287.72225,12583.699)"
      id="g4819">
     <use
        xlink:href="#glyph-plate"
@@ -489,7 +489,7 @@
   </g>
   <g
      id="g4851"
-     transform="translate(216.46765,12583.699)">
+     transform="translate(216.46763,12583.699)">
     <use
        xlink:href="#glyph-plate"
        id="use79"
@@ -511,7 +511,7 @@
   </g>
   <g
      id="g4887"
-     transform="translate(720.65757,12583.699)">
+     transform="translate(720.65755,12583.699)">
     <use
        xlink:href="#glyph-plate"
        id="use84"
@@ -533,12 +533,12 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 256.24452,12915.374 158.65,0 -81.35,140.775 z"
+     d="m 256.2445,12915.374 158.65,0 -81.35,140.775 z"
      id="path4955"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 837.73442,12683.699 0,186.225 0,186.225"
+     d="m 837.7344,12683.699 0,186.225 0,186.225"
      id="path4957"
      inkscape:connector-curvature="0" />
   <path
@@ -611,7 +611,7 @@
      id="path5031"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(474.16471,19783.201)"
+     transform="translate(474.16469,20452.162)"
      id="g5033">
     <use
        xlink:href="#glyph-plate"
@@ -634,7 +634,7 @@
   </g>
   <g
      id="g5065"
-     transform="translate(978.35465,19783.201)">
+     transform="translate(978.35463,20452.162)">
     <use
        xlink:href="#glyph-plate"
        id="use111"
@@ -656,17 +656,17 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1095.4316,19883.199 -77.3001,139.073 -84.50003,142.222"
+     d="m 1095.4316,20552.16 -77.3001,139.073 -84.50005,142.222"
      id="path5101"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1599.6215,19883.199 81.3501,139.073 84.5,142.222"
+     d="m 1599.6215,20552.16 81.3501,139.073 84.5,142.222"
      id="path5103"
      inkscape:connector-curvature="0" />
   <g
      id="g5105"
-     transform="translate(474.16471,20421.829)">
+     transform="translate(474.16469,21090.79)">
     <use
        xlink:href="#glyph-plate"
        id="use118"
@@ -687,7 +687,7 @@
          y="33.077488">Gain</tspan></text>
   </g>
   <g
-     transform="translate(978.35465,20421.829)"
+     transform="translate(978.35463,21090.79)"
      id="g5137">
     <use
        xlink:href="#glyph-plate"
@@ -710,17 +710,17 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 933.63147,20611.276 84.50003,142.222"
+     d="m 933.63145,21280.237 84.50005,142.222"
      id="path5173"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1765.4716,20611.276 -84.5,142.222"
+     d="m 1765.4716,21280.237 -84.5,142.222"
      id="path5175"
      inkscape:connector-curvature="0" />
   <g
      id="g5177"
-     transform="translate(474.16471,4728.0007)">
+     transform="translate(474.16469,4728.0007)">
     <use
        xlink:href="#glyph-plate"
        id="use130"
@@ -741,7 +741,7 @@
          y="33.077488">Truth</tspan></text>
   </g>
   <g
-     transform="translate(978.35465,4728.0007)"
+     transform="translate(978.35463,4728.0007)"
      id="g5209">
     <use
        xlink:href="#glyph-plate"
@@ -773,7 +773,7 @@
      id="path5249"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(474.16471,21071.661)"
+     transform="translate(474.16469,21740.622)"
      id="g5251">
     <use
        xlink:href="#glyph-plate"
@@ -796,7 +796,7 @@
   </g>
   <g
      id="g5283"
-     transform="translate(978.35465,21071.661)">
+     transform="translate(978.35463,21740.622)">
     <use
        xlink:href="#glyph-plate"
        id="use147"
@@ -818,16 +818,16 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1018.1315,21403.33 -84.50003,49.624"
+     d="m 1018.1315,22072.291 -84.50005,49.624"
      id="path5319"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1680.9716,21403.33 84.5,49.624"
+     d="m 1680.9716,22072.291 84.5,49.624"
      id="path5321"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(474.16471,9330.2406)"
+     transform="translate(474.16469,9330.2406)"
      id="g5323">
     <use
        xlink:href="#glyph-plate"
@@ -850,7 +850,7 @@
   </g>
   <g
      id="g5355"
-     transform="translate(978.35465,9330.2406)">
+     transform="translate(978.35463,9330.2406)">
     <use
        xlink:href="#glyph-plate"
        id="use159"
@@ -872,7 +872,7 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 933.63147,9519.6916 84.50003,49.625 77.3001,-139.076 81.35,139.076"
+     d="m 933.63145,9519.6916 84.50005,49.625 77.3001,-139.076 81.35,139.076"
      id="path5391"
      inkscape:connector-curvature="0" />
   <path
@@ -882,7 +882,7 @@
      inkscape:connector-curvature="0" />
   <g
      id="g5397"
-     transform="translate(735.08633,168.89611)">
+     transform="translate(735.08631,168.89611)">
     <use
        xlink:href="#glyph-plate"
        id="use166"
@@ -903,7 +903,7 @@
          y="33.077488">Shapers</tspan></text>
   </g>
   <g
-     transform="translate(731.1875,823.17591)"
+     transform="translate(731.18748,823.17591)"
      id="g5429">
     <use
        xlink:href="#glyph-plate"
@@ -925,7 +925,7 @@
          sodipodi:role="line">Human</tspan></text>
   </g>
   <g
-     transform="translate(736.1304,2116.0961)"
+     transform="translate(736.13038,2116.0961)"
      id="g5461">
     <use
        xlink:href="#glyph-plate"
@@ -962,7 +962,7 @@
      id="path5577"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(726.25967,2778.4699)"
+     transform="translate(726.25965,2778.4699)"
      id="g5579">
     <use
        xlink:href="#glyph-plate"
@@ -990,7 +990,7 @@
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.48168898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 843.3365,1940.0282 -77.3,-140.775 0,-92.6 77.3,47.15 z"
+     d="m 843.33648,1940.0282 -77.3,-140.775 0,-92.6 77.3,47.15 z"
      id="path5715"
      inkscape:connector-curvature="0" />
   <path
@@ -1005,7 +1005,7 @@
      inkscape:connector-curvature="0" />
   <g
      id="g5721"
-     transform="translate(726.25967,4078.1571)">
+     transform="translate(726.25965,4078.1571)">
     <use
        xlink:href="#glyph-plate"
        id="use193"
@@ -1031,7 +1031,7 @@
      id="path5755"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(726.25967,9977.6396)"
+     transform="translate(726.25965,9977.6396)"
      id="g5757">
     <use
        xlink:href="#glyph-plate"
@@ -1054,7 +1054,7 @@
   </g>
   <g
      id="g5789"
-     transform="translate(469.68303,5378.7515)">
+     transform="translate(469.68301,5378.7515)">
     <use
        xlink:href="#glyph-plate"
        id="use204"
@@ -1076,7 +1076,7 @@
   </g>
   <g
      id="g5821"
-     transform="translate(726.25967,13935.176)">
+     transform="translate(726.25965,14604.137)">
     <use
        xlink:href="#glyph-plate"
        id="use209"
@@ -1097,7 +1097,7 @@
          sodipodi:role="line">Avoid</tspan></text>
   </g>
   <g
-     transform="translate(726.25967,14596.212)"
+     transform="translate(726.25965,15265.173)"
      id="g5853">
     <use
        xlink:href="#glyph-plate"
@@ -1119,7 +1119,7 @@
          y="33.077488">Again</tspan></text>
   </g>
   <g
-     transform="translate(471.92387,15909.287)"
+     transform="translate(471.92385,16578.248)"
      id="g5885">
     <use
        xlink:href="#glyph-plate"
@@ -1147,7 +1147,7 @@
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1015.891,16240.962 158.65,0"
+     d="m 1015.891,16909.923 158.65,0"
      id="path5919"
      inkscape:connector-curvature="0" />
   <path
@@ -1157,17 +1157,17 @@
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1185.7264,14124.622 161.8,-89.448 81.35,139.072 84.5,-49.624 -84.5,142.223"
+     d="m 1185.7264,14793.583 161.8,-89.448 81.35,139.072 84.5,-49.624 -84.5,142.223"
      id="path5923"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1185.7264,14977.512 84.5,-142.225 0,92.6 77.3,-45.45 81.35,-47.15 0,92.6"
+     d="m 1185.7264,15646.473 84.5,-142.225 0,92.6 77.3,-45.45 81.35,-47.15 0,92.6"
      id="path5925"
      inkscape:connector-curvature="0" />
   <g
      id="g5927"
-     transform="translate(726.25967,15246.044)">
+     transform="translate(726.25965,15915.005)">
     <use
        xlink:href="#glyph-plate"
        id="use229"
@@ -1189,11 +1189,11 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1270.2264,15577.719 77.3,-45.45 0,186.225 81.35,-140.775"
+     d="m 1270.2264,16246.68 77.3,-45.45 0,186.225 81.35,-140.775"
      id="path5961"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(973.87298,5378.7525)"
+     transform="translate(973.87296,5378.7525)"
      id="g5963">
     <use
        xlink:href="#glyph-plate"
@@ -1220,7 +1220,7 @@
      id="path5995"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(474.16471,6043.3282)"
+     transform="translate(474.16469,6043.3282)"
      id="g3618">
     <use
        xlink:href="#glyph-plate"
@@ -1243,7 +1243,7 @@
   </g>
   <g
      id="g3650"
-     transform="translate(978.35465,6043.3282)">
+     transform="translate(978.35463,6043.3282)">
     <use
        xlink:href="#glyph-plate"
        id="use246"
@@ -1265,7 +1265,7 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 933.63149,6232.7782 84.50001,49.625 0,92.6 158.65,0 0,-92.6 84.5,-49.625"
+     d="m 933.63147,6232.7782 84.50003,49.625 0,92.6 158.65,0 0,-92.6 84.5,-49.625"
      id="path3682"
      inkscape:connector-curvature="0" />
   <path
@@ -1274,7 +1274,7 @@
      id="path3684"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(726.25967,18479.936)"
+     transform="translate(726.25965,19148.897)"
      id="g3686">
     <use
        xlink:href="#glyph-plate"
@@ -1297,7 +1297,7 @@
   </g>
   <g
      id="g3718"
-     transform="translate(222.06975,18479.936)">
+     transform="translate(222.06973,19148.897)">
     <use
        xlink:href="#glyph-plate"
        id="use258"
@@ -1319,7 +1319,7 @@
   </g>
   <g
      id="g3750"
-     transform="translate(1230.4497,18479.936)">
+     transform="translate(1230.4497,19148.897)">
     <use
        xlink:href="#glyph-plate"
        id="use263"
@@ -1341,21 +1341,21 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1185.7264,18861.236 84.5,-142.225 0,92.6 158.6501,0"
+     d="m 1185.7264,19530.197 84.5,-142.225 0,92.6 158.6501,0"
      id="path3782"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 766.0365,18719.011 158.65004,0 0,92.6 84.50006,-142.225"
+     d="m 766.03648,19387.972 158.65004,0 0,92.6 84.50008,-142.225"
      id="path3784"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1689.9165,18861.236 84.5,-142.225 0,92.6 158.65,0 0,-92.6 84.5,142.225"
+     d="m 1689.9165,19530.197 84.5,-142.225 0,92.6 158.65,0 0,-92.6 84.5,142.225"
      id="path3786"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(474.16471,10596.513)"
+     transform="translate(474.16469,10596.513)"
      id="g3703">
     <use
        xlink:href="#glyph-plate"
@@ -1378,7 +1378,7 @@
   </g>
   <g
      id="g3735"
-     transform="translate(978.35465,10596.513)">
+     transform="translate(978.35463,10596.513)">
     <use
        xlink:href="#glyph-plate"
        id="use276"
@@ -1400,7 +1400,7 @@
   </g>
   <g
      id="g3767"
-     transform="translate(474.16471,19138.204)">
+     transform="translate(474.16469,19807.165)">
     <use
        xlink:href="#glyph-plate"
        id="use281"
@@ -1421,7 +1421,7 @@
          y="33.077488">Destroy</tspan></text>
   </g>
   <g
-     transform="translate(978.35465,19138.204)"
+     transform="translate(978.35463,19807.165)"
      id="g3799">
     <use
        xlink:href="#glyph-plate"
@@ -1444,7 +1444,7 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 933.6315,10977.813 84.5,-142.225 77.3,-139.075 81.35,139.075 84.5,142.225"
+     d="m 933.63148,10977.813 84.50002,-142.225 77.3,-139.075 81.35,139.075 84.5,142.225"
      id="path3831"
      inkscape:connector-curvature="0" />
   <path
@@ -1454,17 +1454,17 @@
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 933.6315,19327.654 84.5,49.625 77.3,47.15 81.35,45.45 84.5,49.625"
+     d="m 933.63148,19996.615 84.50002,49.625 77.3,47.15 81.35,45.45 84.5,49.625"
      id="path3835"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1765.4714,19327.654 -84.5,49.625 -81.35,47.15 -77.3,45.45 -84.5,49.625"
+     d="m 1765.4714,19996.615 -84.5,49.625 -81.35,47.15 -77.3,45.45 -84.5,49.625"
      id="path3837"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(976.11381,15909.821)"
+     transform="translate(976.11379,16578.782)"
      id="g3839">
     <use
        xlink:href="#glyph-plate"
@@ -1487,11 +1487,11 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1678.7306,16148.896 -158.65,0 77.3,47.151 -77.3,45.449"
+     d="m 1678.7306,16817.857 -158.65,0 77.3,47.151 -77.3,45.449"
      id="path3871"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(471.92387,16578.268)"
+     transform="translate(471.92385,17247.229)"
      id="g3906">
     <use
        xlink:href="#glyph-plate"
@@ -1518,7 +1518,7 @@
   </g>
   <g
      id="g3938"
-     transform="translate(726.25967,17216.896)">
+     transform="translate(726.25965,17885.857)">
     <use
        xlink:href="#glyph-plate"
        id="use307"
@@ -1540,16 +1540,16 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1259.041,16767.718 -84.5,49.625 0,92.6 -81.3499,-45.45 -77.3,45.45"
+     d="m 1259.041,17436.679 -84.5,49.625 0,92.6 -81.3499,-45.45 -77.3,45.45"
      id="path3972"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1513.3764,17406.346 -84.5,142.225 -81.3499,-45.45 -77.3,45.45"
+     d="m 1513.3764,18075.307 -84.5,142.225 -81.3499,-45.45 -77.3,45.45"
      id="path3974"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(726.25967,6696.5634)"
+     transform="translate(726.25965,6696.5634)"
      id="g3976">
     <use
        xlink:href="#glyph-plate"
@@ -1577,7 +1577,7 @@
      inkscape:connector-curvature="0" />
   <g
      id="g4313"
-     transform="translate(726.25967,8022.4237)">
+     transform="translate(726.25965,8022.4237)">
     <use
        xlink:href="#glyph-plate"
        id="use320"
@@ -1598,7 +1598,7 @@
          sodipodi:role="line">Escape</tspan></text>
   </g>
   <g
-     transform="translate(474.16468,7354.2196)"
+     transform="translate(474.16466,7354.2196)"
      id="g4281">
     <use
        xlink:href="#glyph-plate"
@@ -1630,7 +1630,7 @@
      id="path4347"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(726.25967,8683.4715)"
+     transform="translate(726.25965,8683.4715)"
      id="g4349">
     <use
        xlink:href="#glyph-plate"
@@ -1657,7 +1657,7 @@
      id="path4383"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(474.16471,11272.361)"
+     transform="translate(474.16469,11272.361)"
      id="g4385">
     <use
        xlink:href="#glyph-plate"
@@ -1680,7 +1680,7 @@
   </g>
   <g
      id="g4417"
-     transform="translate(978.35465,11272.361)">
+     transform="translate(978.35463,11272.361)">
     <use
        xlink:href="#glyph-plate"
        id="use343"
@@ -1702,7 +1702,7 @@
   </g>
   <g
      id="g4449"
-     transform="translate(474.16471,11922.193)">
+     transform="translate(474.16469,11922.193)">
     <use
        xlink:href="#glyph-plate"
        id="use348"
@@ -1723,7 +1723,7 @@
          y="33.077488">Path</tspan></text>
   </g>
   <g
-     transform="translate(978.35465,11922.193)"
+     transform="translate(978.35463,11922.193)"
      id="g4482">
     <use
        xlink:href="#glyph-plate"
@@ -1756,7 +1756,7 @@
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1095.4315,12022.193 0,186.225 -77.3,45.45 -84.50005,49.625"
+     d="m 1095.4315,12022.193 0,186.225 -77.3,45.45 -84.50007,49.625"
      id="path4518"
      inkscape:connector-curvature="0" />
   <path
@@ -1766,7 +1766,7 @@
      inkscape:connector-curvature="0" />
   <g
      id="g4079"
-     transform="translate(726.25967,22361.53)">
+     transform="translate(726.25965,23030.491)">
     <use
        xlink:href="#glyph-plate"
        id="use362"
@@ -1788,7 +1788,7 @@
   </g>
   <g
      id="g4151"
-     transform="translate(978.35465,23000.158)">
+     transform="translate(978.35463,23669.119)">
     <use
        xlink:href="#glyph-plate"
        id="use367"
@@ -1810,12 +1810,12 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1522.3215,23331.833 c 67.1182,5.935 126.6846,-7.557 158.6499,-92.599 l -158.6499,92.599 0,-92.599 77.2999,47.149 z"
+     d="m 1522.3215,24000.794 c 67.1182,5.935 126.6846,-7.557 158.6499,-92.599 l -158.6499,92.599 0,-92.599 77.2999,47.149 z"
      id="path4185"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccc" />
   <g
-     transform="translate(474.16452,23000.158)"
+     transform="translate(474.1645,23669.119)"
      id="g4113">
     <use
        xlink:href="#glyph-plate"
@@ -1838,17 +1838,17 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1095.4313,23100.158 0,186.226 -161.79994,95.074 161.79994,91.15 165.85,-91.15 -165.85,-95.074"
+     d="m 1095.4313,23769.119 0,186.226 -161.79996,95.074 161.79996,91.15 165.85,-91.15 -165.85,-95.074"
      id="path4956"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccc" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1347.5264,22461.53 -77.2999,139.075 158.6499,92.6 -81.35,140.775 -77.2999,-140.775 158.6499,-92.6 z"
+     d="m 1347.5264,23130.491 -77.2999,139.075 158.6499,92.6 -81.35,140.775 -77.2999,-140.775 158.6499,-92.6 z"
      id="path4958"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(726.25967,17844.32)"
+     transform="translate(726.25965,18513.281)"
      id="g3998">
     <use
        xlink:href="#glyph-plate"
@@ -1871,7 +1871,7 @@
   </g>
   <g
      id="g4032"
-     transform="translate(976.11381,16578.268)">
+     transform="translate(976.11379,17247.229)">
     <use
        xlink:href="#glyph-plate"
        id="use385"
@@ -1893,11 +1893,11 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1678.7306,16817.343 -158.65,92.6 77.3,140.775"
+     d="m 1678.7306,17486.304 -158.65,92.6 77.3,140.775"
      id="path4066"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(978.35465,7354.2196)"
+     transform="translate(978.35463,7354.2196)"
      id="g4100">
     <use
        xlink:href="#glyph-plate"
@@ -1925,12 +1925,12 @@
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1270.2264,18083.395 77.3,47.15 81.35,-47.15 0,92.6 -158.65,0 77.3,140.775"
+     d="m 1270.2264,18752.356 77.3,47.15 81.35,-47.15 0,92.6 -158.65,0 77.3,140.775"
      id="path4174"
      inkscape:connector-curvature="0" />
   <g
      id="g4176"
-     transform="translate(474.16471,24272.559)">
+     transform="translate(474.16469,24941.52)">
     <use
        xlink:href="#glyph-plate"
        id="use398"
@@ -1951,7 +1951,7 @@
          y="33.077488">Improve</tspan></text>
   </g>
   <g
-     transform="translate(978.35465,24272.559)"
+     transform="translate(978.35463,24941.52)"
      id="g4208">
     <use
        xlink:href="#glyph-plate"
@@ -1973,7 +1973,7 @@
          sodipodi:role="line">Deteriorate</tspan></text>
   </g>
   <g
-     transform="translate(474.16471,25583.626)"
+     transform="translate(474.16469,26252.587)"
      id="g4244">
     <use
        xlink:href="#glyph-plate"
@@ -1996,7 +1996,7 @@
   </g>
   <g
      id="g4276"
-     transform="translate(978.35465,25583.626)">
+     transform="translate(978.35463,26252.587)">
     <use
        xlink:href="#glyph-plate"
        id="use413"
@@ -2018,26 +2018,26 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1261.2815,24462.009 -165.85,96.775 81.35,45.45"
+     d="m 1261.2815,25130.97 -165.85,96.775 81.35,45.45"
      id="path4308"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1437.8214,24653.859 161.8,-95.075 -77.3,-47.151"
+     d="m 1437.8214,25322.82 161.8,-95.075 -77.3,-47.151"
      id="path4310"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 933.63147,25964.925 161.80003,-95.075 0,186.226 z"
+     d="m 933.63145,26633.886 161.80005,-95.075 0,186.226 z"
      id="path4312"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1437.8214,25773.076 161.8,96.774 0,-186.224 z"
+     d="m 1437.8214,26442.037 161.8,96.774 0,-186.224 z"
      id="path4314"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(474.16471,23635.963)"
+     transform="translate(474.16469,24304.924)"
      id="g4424">
     <use
        xlink:href="#glyph-plate"
@@ -2060,7 +2060,7 @@
   </g>
   <g
      id="g4456"
-     transform="translate(978.35465,23635.963)">
+     transform="translate(978.35463,24304.924)">
     <use
        xlink:href="#glyph-plate"
        id="use427"
@@ -2082,17 +2082,17 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1095.4314,23735.963 0,186.225 -77.3,-47.15 0,92.6"
+     d="m 1095.4314,24404.924 0,186.225 -77.3,-47.15 0,92.6"
      id="path4526"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1599.6214,23735.963 0,186.225 81.35,-47.15 0,92.6"
+     d="m 1599.6214,24404.924 0,186.225 81.35,-47.15 0,92.6"
      id="path4528"
      inkscape:connector-curvature="0" />
   <g
      id="g4596"
-     transform="translate(726.25967,26232.668)">
+     transform="translate(726.25965,26901.629)">
     <use
        xlink:href="#glyph-plate"
        id="use434"
@@ -2113,7 +2113,7 @@
          sodipodi:role="line">Danger</tspan></text>
   </g>
   <g
-     transform="translate(726.25967,26871.296)"
+     transform="translate(726.25965,27540.257)"
      id="g4628">
     <use
        xlink:href="#glyph-plate"
@@ -2136,17 +2136,17 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1347.5264,26332.668 -77.3,139.076 77.3,47.149 0,186.226"
+     d="m 1347.5264,27001.629 -77.3,139.076 77.3,47.149 0,186.226"
      id="path4660"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1513.3764,27252.597 -243.15,-142.226 77.3,-139.075 81.35,139.075 -81.35,47.151"
+     d="m 1513.3764,27921.558 -243.15,-142.226 77.3,-139.075 81.35,139.075 -81.35,47.151"
      id="path4662"
      inkscape:connector-curvature="0" />
   <g
      id="g4664"
-     transform="matrix(0.81841484,0,0,0.81841484,839.11485,32259.895)">
+     transform="matrix(0.81841484,0,0,0.81841484,839.11483,32928.856)">
     <use
        xlink:href="#glyph-plate"
        id="use446"
@@ -2168,11 +2168,11 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:3.6678803;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1414.1468,32531.343 -66.578,-37.197 -63.2635,37.197 63.2635,115.212"
+     d="m 1414.1468,33200.304 -66.578,-37.197 -63.2635,37.197 63.2635,115.212"
      id="path4698"
      inkscape:connector-curvature="0" />
   <g
-     transform="matrix(0.81841484,0,0,0.81841484,839.11485,28572.39)"
+     transform="matrix(0.81841484,0,0,0.81841484,839.11483,29241.351)"
      id="g4700">
     <use
        xlink:href="#glyph-plate"
@@ -2195,12 +2195,12 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:3.6678803;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1215.1492,28727.439 132.4196,79.202 -63.2635,37.197 129.8415,0"
+     d="m 1215.1492,29396.4 132.4196,79.202 -63.2635,37.197 129.8415,0"
      id="path4734"
      inkscape:connector-curvature="0" />
   <g
      id="g4736"
-     transform="matrix(0.81841484,0,0,0.81841484,839.11485,29095.053)">
+     transform="matrix(0.81841484,0,0,0.81841484,839.11483,29764.014)">
     <use
        xlink:href="#glyph-plate"
        id="use458"
@@ -2222,11 +2222,11 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:3.6678803;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1414.1468,29290.716 -129.8415,0 198.9976,116.399"
+     d="m 1414.1468,29959.677 -129.8415,0 198.9976,116.399"
      id="path4768"
      inkscape:connector-curvature="0" />
   <g
-     transform="matrix(0.81841484,0,0,0.81841484,839.11485,27503.098)"
+     transform="matrix(0.81841484,0,0,0.81841484,839.11483,28172.059)"
      id="g4770">
     <use
        xlink:href="#glyph-plate"
@@ -2249,12 +2249,12 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:3.6678803;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1284.3053,27698.76 129.8415,0 69.1561,-40.614 -69.1561,116.4 -129.8415,0"
+     d="m 1284.3053,28367.721 129.8415,0 69.1561,-40.614 -69.1561,116.4 -129.8415,0"
      id="path4802"
      inkscape:connector-curvature="0" />
   <g
      id="g4804"
-     transform="matrix(0.81841484,0,0,0.81841484,839.11485,31738.038)">
+     transform="matrix(0.81841484,0,0,0.81841484,839.11483,32406.999)">
     <use
        xlink:href="#glyph-plate"
        id="use470"
@@ -2276,12 +2276,12 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:3.6678803;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1215.1492,32050.1 132.4196,74.599 135.7341,-74.599"
+     d="m 1215.1492,32719.061 132.4196,74.599 135.7341,-74.599"
      id="path4836"
      inkscape:connector-curvature="0" />
   <g
      id="g4872"
-     transform="matrix(0.81841484,0,0,0.81841484,632.7966,28039.133)">
+     transform="matrix(0.81841484,0,0,0.81841484,632.79658,28708.094)">
     <use
        xlink:href="#glyph-plate"
        id="use476"
@@ -2302,7 +2302,7 @@
          y="33.077488">Follow</tspan></text>
   </g>
   <g
-     transform="matrix(0.81841484,0,0,0.81841484,1045.4331,28039.133)"
+     transform="matrix(0.81841484,0,0,0.81841484,1045.4331,28708.094)"
      id="g4904">
     <use
        xlink:href="#glyph-plate"
@@ -2325,16 +2325,16 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:3.6678803;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1141.2506,28120.973 66.578,113.822 69.1561,-40.614 0,157.013"
+     d="m 1141.2506,28789.934 66.578,113.822 69.1561,-40.614 0,157.013"
      id="path4940"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:3.6678803;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1553.887,28120.973 -132.4195,73.208 0,157.013 69.1561,-40.613 63.2634,115.212"
+     d="m 1553.887,28789.934 -132.4195,73.208 0,157.013 69.1561,-40.613 63.2634,115.212"
      id="path4942"
      inkscape:connector-curvature="0" />
   <g
-     transform="matrix(0.81841484,0,0,0.81841484,839.11485,29608.546)"
+     transform="matrix(0.81841484,0,0,0.81841484,839.11483,30277.507)"
      id="g4946">
     <use
        xlink:href="#glyph-plate"
@@ -2357,11 +2357,11 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:3.6678803;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1215.1493,29763.595 268.1536,157.013 -135.7341,74.598"
+     d="m 1215.1493,30432.556 268.1536,157.013 -135.7341,74.598"
      id="path4978"
      inkscape:connector-curvature="0" />
   <g
-     transform="matrix(0.81841484,0,0,0.81841484,632.7966,30663.027)"
+     transform="matrix(0.81841484,0,0,0.81841484,632.79658,31331.988)"
      id="g4980">
     <use
        xlink:href="#glyph-plate"
@@ -2384,7 +2384,7 @@
   </g>
   <g
      id="g5012"
-     transform="matrix(0.81841484,0,0,0.81841484,1045.4331,30663.027)">
+     transform="matrix(0.81841484,0,0,0.81841484,1045.4331,31331.988)">
     <use
        xlink:href="#glyph-plate"
        id="use499"
@@ -2406,17 +2406,17 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1077.987,30934.475 63.2636,-37.197 66.578,37.197"
+     d="m 1077.987,31603.436 63.2636,-37.197 66.578,37.197"
      id="path5044"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1490.6236,30858.69 63.2634,38.588 66.5781,-38.588"
+     d="m 1490.6236,31527.651 63.2634,38.588 66.5781,-38.588"
      id="path5046"
      inkscape:connector-curvature="0" />
   <g
      id="g5048"
-     transform="matrix(0.81841484,0,0,0.81841484,632.7966,33326.488)">
+     transform="matrix(0.81841484,0,0,0.81841484,632.79658,33995.449)">
     <use
        xlink:href="#glyph-plate"
        id="use506"
@@ -2437,7 +2437,7 @@
          y="33.077488">Old</tspan></text>
   </g>
   <g
-     transform="matrix(0.81841484,0,0,0.81841484,1045.4331,33326.488)"
+     transform="matrix(0.81841484,0,0,0.81841484,1045.4331,33995.449)"
      id="g5080">
     <use
        xlink:href="#glyph-plate"
@@ -2460,17 +2460,17 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1008.831,33481.537 69.156,40.614 0,75.785"
+     d="m 1008.831,34150.498 69.156,40.614 0,75.785"
      id="path5112"
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1620.4651,33522.151 0,75.785 69.156,40.614"
+     d="m 1620.4651,34191.112 0,75.785 69.156,40.614"
      id="path5114"
      inkscape:connector-curvature="0" />
   <g
      id="g5120"
-     transform="matrix(0.81841484,0,0,0.81841484,839.11485,30123.93)">
+     transform="matrix(0.81841484,0,0,0.81841484,839.11483,30792.891)">
     <use
        xlink:href="#glyph-plate"
        id="use518"
@@ -2492,11 +2492,11 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1215.1492,30278.979 69.1561,116.399 198.9976,-116.399 0,157.013"
+     d="m 1215.1492,30947.94 69.1561,116.399 198.9976,-116.399 0,157.013"
      id="path5152"
      inkscape:connector-curvature="0" />
   <g
-     transform="matrix(0.81841484,0,0,0.81841484,839.11485,32797.687)"
+     transform="matrix(0.81841484,0,0,0.81841484,839.11483,33466.648)"
      id="g5154">
     <use
        xlink:href="#glyph-plate"
@@ -2519,11 +2519,11 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1215.1492,32952.736 69.1561,40.614 0,75.785 129.8416,-75.785 0,75.785 69.156,40.614"
+     d="m 1215.1492,33621.697 69.1561,40.614 0,75.785 129.8416,-75.785 0,75.785 69.156,40.614"
      id="path5186"
      inkscape:connector-curvature="0" />
   <g
-     transform="translate(726.25967,24919.402)"
+     transform="translate(726.25965,25588.363)"
      id="g5188">
     <use
        xlink:href="#glyph-plate"
@@ -2546,12 +2546,12 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1513.3764,25108.852 -84.5,142.225 -81.35,-45.45"
+     d="m 1513.3764,25777.813 -84.5,142.225 -81.35,-45.45"
      id="path5220"
      inkscape:connector-curvature="0" />
   <g
      id="g3426"
-     transform="matrix(0.81841484,0,0,0.81841484,632.7966,31200.819)">
+     transform="matrix(0.81841484,0,0,0.81841484,632.79658,31869.78)">
     <use
        id="use3428"
        xlink:href="#glyph-plate"
@@ -2572,7 +2572,7 @@
          y="33.077488">Die</tspan></text>
   </g>
   <g
-     transform="matrix(0.81841484,0,0,0.81841484,1045.4331,31200.819)"
+     transform="matrix(0.81841484,0,0,0.81841484,1045.4331,31869.78)"
      id="g3434">
     <use
        id="use3436"
@@ -2596,17 +2596,17 @@
   <path
      inkscape:connector-curvature="0"
      id="path3442"
-     d="m 1008.831,31512.881 132.4196,-77.811 135.7341,77.811"
+     d="m 1008.831,32181.842 132.4196,-77.811 135.7341,77.811"
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      sodipodi:nodetypes="ccc" />
   <path
      inkscape:connector-curvature="0"
      id="path3444"
-     d="m 1421.4675,31355.868 132.4195,79.202 135.7342,-79.202"
+     d="m 1421.4675,32024.829 132.4195,79.202 135.7342,-79.202"
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      sodipodi:nodetypes="ccc" />
   <g
-     transform="translate(726.25967,21711.698)"
+     transform="translate(726.25965,22380.659)"
      id="g3446">
     <use
        height="32538.805"
@@ -2629,7 +2629,61 @@
   </g>
   <path
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 1347.5265,21811.698 -77.3,139.075"
+     d="m 1347.5265,22480.659 -77.3,139.075"
      id="path3456"
+     inkscape:connector-curvature="0" />
+  <g
+     transform="translate(474.16469,13920.844)"
+     id="g3547">
+    <use
+       height="32538.805"
+       width="2630.3152"
+       y="0"
+       x="0"
+       id="use3549"
+       xlink:href="#glyph-plate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3551"
+       y="33.077488"
+       x="620.9978"
+       style="font-size:40.33519745px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#1accd9;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="33.077488"
+         x="620.9978"
+         id="tspan3553"
+         sodipodi:role="line">Message</tspan></text>
+  </g>
+  <g
+     id="g3555"
+     transform="translate(978.35463,13920.844)">
+    <use
+       height="32538.805"
+       width="2630.3152"
+       y="0"
+       x="0"
+       id="use3557"
+       xlink:href="#glyph-plate" />
+    <text
+       xml:space="preserve"
+       style="font-size:40.33519745px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#1accd9;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="620.9978"
+       y="33.077488"
+       id="text3559"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3561"
+         x="620.9978"
+         y="33.077488">Data</tspan></text>
+  </g>
+  <path
+     style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 1261.2815,14110.294 -84.5,142.225 -158.6501,-92.6 -84.49996,142.225"
+     id="path3567"
+     inkscape:connector-curvature="0" />
+  <path
+     style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 1599.6214,14020.844 81.35,139.075 -158.65,92.6 77.3,140.775"
+     id="path3569"
      inkscape:connector-curvature="0" />
 </svg>
