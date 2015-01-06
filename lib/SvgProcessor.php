@@ -88,12 +88,6 @@
 		public static function write($outputBasePath, $cleanSvg, $data) {
 			$outputBasePath = preg_replace('#/*$#', '/', $outputBasePath);
 
-			// main html (embedded SVG)
-			ob_start();
-			include dirname(__DIR__) . '/' . self::mainTplPath;
-			$html = ob_get_clean();
-			file_put_contents($outputBasePath . self::mainHtml, $html);
-
 			// data file (JSON with glyph mapping)
 			$json = 'var ' . self::dataVariable . ' = ' . json_encode($data);
 			$dataFilePath = $outputBasePath . self::dataJS;
@@ -101,6 +95,12 @@
 			if ($oldJson !== $json) {	// compare with old to avoid changing modification time
 				file_put_contents($dataFilePath, $json);
 			}
+
+			// main html (embedded SVG)
+			ob_start();
+			include dirname(__DIR__) . '/' . self::mainTplPath;
+			$html = ob_get_clean();
+			file_put_contents($outputBasePath . self::mainHtml, $html);
 			return true;
 		}
 	}
