@@ -212,14 +212,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1858"
-     inkscape:window-height="1058"
+     inkscape:window-height="1057"
      id="namedview64"
      showgrid="false"
      inkscape:snap-global="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:zoom="0.022401391"
-     inkscape:cx="-28066.523"
-     inkscape:cy="69708.983"
+     inkscape:zoom="0.35842226"
+     inkscape:cx="2305.1721"
+     inkscape:cy="-1472.7317"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -2685,5 +2685,113 @@
      style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 1599.6214,14020.844 81.35,139.075 -158.65,92.6 77.3,140.775"
      id="path3569"
+     inkscape:connector-curvature="0" />
+  <g
+     id="g4851-4"
+     transform="translate(471.01455,34527.124)">
+    <use
+       xlink:href="#glyph-plate"
+       id="use79-0"
+       x="0"
+       y="0"
+       width="2630.3152"
+       height="32538.805" />
+    <text
+       xml:space="preserve"
+       style="font-size:40.33519745px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#1accd9;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="620.9978"
+       y="33.077488"
+       id="text4879-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4881-4"
+         x="620.9978"
+         y="33.077488">Technology</tspan></text>
+  </g>
+  <g
+     id="g4887-8"
+     transform="translate(975.20449,34527.124)">
+    <use
+       xlink:href="#glyph-plate"
+       id="use84-8"
+       x="0"
+       y="0"
+       width="2630.3152"
+       height="32538.805" />
+    <text
+       xml:space="preserve"
+       style="font-size:40.33519745px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#1accd9;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="620.9978"
+       y="33.077488"
+       id="text4915-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4917-4"
+         x="620.9978"
+         y="33.077488">Intelligence</tspan></text>
+  </g>
+  <g
+     id="g4961-1"
+     transform="translate(471.26472,35157.01)">
+    <use
+       xlink:href="#glyph-plate"
+       id="use92-7"
+       x="0"
+       y="0"
+       width="2630.3152"
+       height="32538.805" />
+    <text
+       xml:space="preserve"
+       style="font-size:40.33519745px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#1accd9;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="620.9978"
+       y="33.077488"
+       id="text4989-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4991-1"
+         x="620.9978"
+         y="33.077488">Grow</tspan></text>
+  </g>
+  <g
+     transform="translate(975.45464,35157.01)"
+     id="g4993-5">
+    <use
+       xlink:href="#glyph-plate"
+       id="use97-2"
+       x="0"
+       y="0"
+       width="2630.3152"
+       height="32538.805" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5021-7"
+       y="33.077488"
+       x="620.9978"
+       style="font-size:40.33519745px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#1accd9;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="33.077488"
+         x="620.9978"
+         id="tspan5023-6"
+         sodipodi:role="line">Unbonded</tspan></text>
+  </g>
+  <path
+     style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 1258.1313,34716.574 -243.15,142.225 0,-92.6 243.15,142.225 0,0"
+     id="path3882"
+     inkscape:connector-curvature="0" />
+  <path
+     style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 1762.3212,34716.574 -165.8499,96.775 -77.3,-47.15 0,92.6 -84.5,49.625"
+     id="path3884"
+     inkscape:connector-curvature="0" />
+  <path
+     style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 930.7315,35538.31 84.5,-142.225 0,92.599"
+     id="path3886"
+     inkscape:connector-curvature="0" />
+  <path
+     style="color:#000000;fill:none;stroke:#ffffff;stroke-width:4.4816885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 1596.7214,35443.234 81.35,-47.149 -158.65,0 0,92.599 158.65,0 84.5,-142.224 -165.85,-89.45 -161.8,89.45 0,191.85 161.8,91.15 165.85,-91.15"
+     id="path3888"
      inkscape:connector-curvature="0" />
 </svg>

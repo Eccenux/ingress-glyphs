@@ -86,4 +86,8 @@ var glyphsMapping = {"g5613":"Body"
 ,"g3434":"Live \/ Breath"
 ,"g3446":"See"
 ,"g3547":"Message"
-,"g3555":"Data"}
+,"g3555":"Data"
+,"g4851-4":"Technology"
+,"g4887-8":"Intelligence"
+,"g4961-1":"Grow"
+,"g4993-5":"Unbonded"}
