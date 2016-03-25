@@ -89,7 +89,7 @@
 			$outputBasePath = preg_replace('#/*$#', '/', $outputBasePath);
 
 			// data file (JSON with glyph mapping)
-			$json = 'var ' . self::dataVariable . ' = ' . json_encode($data);
+			$json = 'var ' . self::dataVariable . ' = ' . preg_replace("#,#", "\n,", json_encode($data));
 			$dataFilePath = $outputBasePath . self::dataJS;
 			$oldJson = file_get_contents($dataFilePath);
 			if ($oldJson !== $json) {	// compare with old to avoid changing modification time
