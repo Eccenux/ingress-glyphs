@@ -218,8 +218,8 @@
      inkscape:snap-global="true"
      inkscape:snap-object-midpoints="true"
      inkscape:zoom="0.25344281"
-     inkscape:cx="3417.9068"
-     inkscape:cy="66024.066"
+     inkscape:cx="2970.1854"
+     inkscape:cy="21149.701"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1131,7 +1131,7 @@
          sodipodi:role="line"
          id="tspan5883"
          x="620.9978"
-         y="33.077488">Again</tspan></text>
+         y="33.077488">Again / Repeat</tspan></text>
   </g>
   <g
      transform="translate(471.92386,16578.269)"
@@ -1691,7 +1691,7 @@
          y="33.077488"
          x="620.9978"
          id="tspan4415"
-         sodipodi:role="line">Inside</tspan></text>
+         sodipodi:role="line">Inside / Not</tspan></text>
   </g>
   <g
      id="g4417"
@@ -2071,7 +2071,7 @@
          y="33.077488"
          x="620.9978"
          id="tspan4454"
-         sodipodi:role="line">Evolution</tspan></text>
+         sodipodi:role="line">Evolution / Success</tspan></text>
   </g>
   <g
      id="g4456"
